@@ -1,0 +1,22 @@
+{
+  "name": "webdriverjs_jupyter_notebook",
+  "version": "1.0.0",
+  "description": "Jupyter Notebook to test webdriverjs functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andy-schulz/webdriverjs_jupyter_notebook.git"
+  },
+  "author": "Andy Schulz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andy-schulz/webdriverjs_jupyter_notebook/issues"
+  },
+  "homepage": "https://github.com/andy-schulz/webdriverjs_jupyter_notebook#readme",
+  "dependencies": {
+    "thekla": "git+https://github.com/andy-schulz/thekla.git"
+  }
+}
